@@ -1,0 +1,28 @@
+.outer-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    background-color: #2D2D2D;
+    height: 100vh;
+}
+
+.inner-text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    background-color: #8A8A8A;
+    width: 80%;
+    margin: 30px;
+    height: 80%;
+    border-radius: 10px;
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    color: white;
+}
