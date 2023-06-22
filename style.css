@@ -26,3 +26,7 @@ h1 {
 p {
     color: white;
 }
+
+.commit-messages {
+    font-size: 2rem;
+}
